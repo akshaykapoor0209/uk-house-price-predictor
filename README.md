@@ -15,7 +15,7 @@ The project involves various stages, including data preprocessing, exploratory d
 - Deployment considerations and suggestions for future improvements.
 
 ## Directory Structure
-data.csv - Data used for the following project.
+HousePriceData.csv - Data used for the following project. (to download the data check the following link - https://drive.google.com/file/d/1IiApIsNhIRKcUd29RU3ipKkBxDZJMNRz/view?usp=drive_link)
 HousePricePrediction.ipynb - Python notebook with code.
 
 ## Results
